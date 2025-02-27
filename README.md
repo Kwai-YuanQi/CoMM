@@ -4,6 +4,8 @@
 [![Static Badge](https://img.shields.io/badge/GoogleDrive-Dataset-blue)](https://drive.google.com/file/d/17AWa3wVCk4OZOdBQzDLRXsvRMnaXXP3T/view?usp=sharing)
 [![Static Badge](https://img.shields.io/badge/Huggingface-Dataset-yellow)](https://huggingface.co/datasets/weisuxi/CoMM)
 
+[CVPR 2025] CoMM: A Coherent Interleaved Image-Text Dataset for Multimodal Understanding and Generation
+
 CoMM is a high-quality dataset designed to improve the coherence, consistency, and alignment of multimodal content. It sources raw data from diverse origins, focusing on instructional content and visual storytelling to establish a strong foundation. 
 <img src="assets/data_compare.svg" width="800" alt="data comparison">
 
